@@ -1,27 +1,57 @@
 [
   {
-    "name": "Learning Yogesh",
-    "description": "He is a student of NavGurukul",
+    "name": "Anmol Mehra",
+    "description": "He is doing backend!",
     "id": 1
   },
   {
-    "name": "Learning Satyam",
-    "description": "In this course we learn Python.",
+    "name": "Anjali Prajapati",
+    "description": "She preparing for JAM right now",
     "id": 2
   },
   {
-    "name": "Learning Anand",
-    "description": "In this course we learn about Nodejs express.",
+    "name": "sabid",
+    "description": "He is doing python!",
     "id": 3
   },
   {
-    "name": "Learning Yogendra",
-    "description": "In this course we learn HTML and CSS.",
+    "name": "Aayush Bahal",
+    "description": "He is currently studying in College",
     "id": 4
   },
   {
-    "name": "Learning Pratik",
-    "description": "In this course we learn about flask.",
+    "name": "Tushar Prajapati",
+    "description": "He is pursuing class 12th",
     "id": 5
+  },
+  {
+    "name": "Anand bhaiya",
+    "description": "He is growing great in his life, ",
+    "id": 6
+  },
+  {
+    "name": "Anand bhaiya",
+    "description": "He is growing great in his life, ",
+    "id": 7
+  },
+  {
+    "name": "Siddik",
+    "description": "He is doing backend!",
+    "id": 8
+  },
+  {
+    "name": "vishal",
+    "description": "He is doing backend!",
+    "id": 9
+  },
+  {
+    "name": "Vish",
+    "description": "She is a mathematician!",
+    "id": 10
+  },
+  {
+    "name": "Sanjay bhaiya",
+    "description": "He is doing his job!",
+    "id": 11
   }
 ]

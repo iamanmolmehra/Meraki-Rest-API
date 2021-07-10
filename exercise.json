@@ -1,0 +1,92 @@
+[
+  {
+    "name": " Anmol Mehra",
+    "description": "He is doing projects on MVC backend",
+    "id": 1,
+    "exercises": [
+      {
+        "courseId": "1",
+        "name": "Siddik",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 1
+      },
+      {
+        "courseId": "1",
+        "name": "Anand bhaiya ",
+        "content": "You have to learn the basics of backend e-commerce",
+        "hint": "---Heya guys this a hint for you all!!!!",
+        "id": 2
+      },
+      {
+        "courseId": "1",
+        "name": "Hello Gurgaon==--=Dharamshala",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 3
+      },
+      {
+        "name": "Aayush Bahal",
+        "content": "He is taking classes of his college",
+        "hint": "Noida college",
+        "id": 4
+      }
+    ]
+  },
+  {
+    "name": "Anjali Prajapati",
+    "description": "Anjali is a mathematician and wants to be educator",
+    "id": 2,
+    "exercises": [
+      {
+        "courseId": "2",
+        "name": "Bharat",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 1
+      },
+      {
+        "courseId": "2",
+        "name": "Shrushti",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 2
+      },
+      {
+        "courseId": "2",
+        "name": "Nasir",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 3
+      }
+    ]
+  },
+  {
+    "name": "Abhishek Mehra",
+    "description": "He is hard working guy.",
+    "id": 3,
+    "exercises": [
+      {
+        "courseId": "3",
+        "name": "Ranjan",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 1
+      },
+      {
+        "courseId": "3",
+        "name": "Satpal",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 2
+      },
+      {
+        "courseId": "3",
+        "name": "Vishal",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!",
+        "id": 3
+      }
+    ]
+  }
+]

@@ -1,84 +1,90 @@
 [
   {
-    "name": "Learning Satyam",
-    "description": "In this course we learn Python.",
+    "name": " Anmol Mehra",
+    "description": "He is doing projects on MVC backend",
     "id": 1,
     "exercises": [
       {
         "courseId": "1",
-        "name": "Anand@@@@@@@Pradesh Dharamshala",
-        "content": "Iss exercise mein aapne yeh sab karna hai.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Siddik",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "Heya guys this a hint for you all!!!!",
         "id": 1
       },
       {
         "courseId": "1",
-        "name": "Introduction of html and css",
-        "content": "Iss exercise mein aapne yeh sab karna hai.",
-        "hint": "---Hello! Yeh ek hint hai!!!",
+        "name": "Anand bhaiya ",
+        "content": "You have to learn the basics of backend e-commerce",
+        "hint": "---Heya guys this a hint for you all!!!!",
         "id": 2
       },
       {
         "courseId": "1",
-        "name": "Hello Jaunpur==--=Dharamshala",
-        "content": "Iss exercise mein hum NavGurukul ke baare me sikhenge.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Hello Gurgaon==--=Dharamshala",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!" ,
         "id": 3
+      },
+      {
+        "name": "Aayush Bahal",
+        "content": "He is taking classes of his college",
+        "hint": "Noida college",
+        "id": 4
       }
     ]
   },
   {
-    "name": "Learning Anand",
-    "description": "In this course we learn about Nodejs express.",
+    "name": "Anjali Prajapati",
+    "description": "Anjali is a mathematician and wants to be educator",
     "id": 2,
     "exercises": [
       {
         "courseId": "2",
-        "name": "Pratik&&&&&&&&Yogesh--",
-        "content": "Iss exercise mein aapne yeh sab karna hai.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Bharat",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "Heya guys this a hint for you all!!!!",
         "id": 1
       },
       {
         "courseId": "2",
-        "name": "Introduction of css",
-        "content": "Iss exercise mein aapne yeh sab karna hai.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Shrushti",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "Heya guys this a hint for you all!!!!",
         "id": 2
       },
       {
         "courseId": "2",
-        "name": "@@@@@@@Utter Pradesh",
-        "content": "Iss exercise mein hum NavGurukul ke baare me sikhenge.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Nasir",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!",
         "id": 3
       }
     ]
   },
   {
-    "name": "Learning Yogendra",
-    "description": "In this course we learn HTML and CSS.",
+    "name": "Abhishek Mehra",
+    "description": "He is hard working guy.",
     "id": 3,
     "exercises": [
       {
         "courseId": "3",
-        "name": "Hello NavGurukul",
-        "content": "Iss exercise mein aapne yeh sab karna hai.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Tushar Prajapati",
+        "content": "You have to learn the basics of backend and projects.",
+        "hint": "He is good in mathematics",
         "id": 1
       },
       {
         "courseId": "3",
-        "name": "Hello NavGurukul",
-        "content": "Iss exercise mein hum NavGurukul ke baare me sikhenge.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Satpal",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!",
         "id": 2
       },
       {
         "courseId": "3",
-        "name": "Anand@@@@@@@Pradesh",
-        "content": "Iss exercise mein hum NavGurukul ke baare me sikhenge.",
-        "hint": "Hello! Yeh ek hint hai!!!",
+        "name": "Vishal",
+        "content": "We are learning about the stucture and the backend work!!",
+        "hint": "Heya guys this a hint for you all!!!!",
         "id": 3
       }
     ]
